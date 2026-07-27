@@ -1,4 +1,4 @@
-# sta199-lab0
+# sta198-lab0
 
 This is repository only serves to help you practice cloning from GitHub during Lab 0.
 
